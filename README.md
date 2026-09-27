@@ -35,6 +35,6 @@ Lista de estudiantes registrados:
 - Pablo
 - Jimmy
 
-Escribe un nombre para buscar en la lista: Luis
-'Luis' sí está registrado en la lista.
+Escribe un nombre para buscar en la lista: Pablo
+'Pablo' sí está registrado en la lista.
 ```
