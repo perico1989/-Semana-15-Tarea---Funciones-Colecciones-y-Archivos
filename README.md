@@ -1,6 +1,6 @@
 # Registro de Estudiantes
 
-Programa sencillo en Python que utiliza una **lista** para registrar y consultar nombres de estudiantes.
+Programa en Python que utiliza una **lista** para registrar y consultar nombres de estudiantes.
 
 ## ¿Qué hace el programa?
 
